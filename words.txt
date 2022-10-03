@@ -1,0 +1,9 @@
+Sweden, Stockholm
+England, London
+France, Paris
+Iraq, bagdad
+USA, Washington
+Netherlands, Amsterdam
+Greece, Aten
+Thailand, bangkok
+Germany, Berlin
